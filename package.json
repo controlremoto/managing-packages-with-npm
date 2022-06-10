@@ -1,5 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "managing-packages-with-npm",
 	"author": "Not Developer",
 	"description": "This project does something awesome",
 	"keywords": [
@@ -11,14 +11,10 @@
 	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.10.2"
+		"moment": "~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
 	}
 }
